@@ -1,0 +1,35 @@
+.header__title{
+  font-family: system-ui;
+}
+
+.interests {
+  display: none;
+  font-family: system-ui;
+  font-size: 22px;
+  font-weight: bold;
+}
+
+.interests_main {
+  display: block;
+  border: 1px solid seagreen;
+  background-color: beige;
+}
+
+.interests_active {
+  display: block;
+  font-size: 18px;
+  font-weight: 400;
+}
+
+li{
+  list-style: none;
+ 
+}
+
+input{
+  cursor: pointer;
+}
+
+label{
+  cursor: pointer;
+}
